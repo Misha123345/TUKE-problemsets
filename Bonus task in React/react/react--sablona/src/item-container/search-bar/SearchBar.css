@@ -1,0 +1,25 @@
+.search-bar-container{
+    margin: 20px auto;
+    text-align: center;
+}
+.search-bar-input{
+    width: 40%;
+    height: 5.5vh;
+    padding: 1px 10px;
+    outline: none;
+    background-color: #efefef;
+    border:#28282B 1px solid;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+
+.button{
+    height: 5.5vh;
+    padding: 5px 10px;
+    border: none;
+    background-color: #4d4d4d; 
+    color:#fff;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

@@ -1,0 +1,20 @@
+button {
+  text-align: center;
+  border: 3px solid #075270;
+  background-color: #08678d;
+  border-radius: 5px;
+  color: #fff;
+}
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.home {
+  display: flex;
+  gap: 50px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

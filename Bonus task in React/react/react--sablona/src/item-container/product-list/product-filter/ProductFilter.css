@@ -1,0 +1,40 @@
+.filter-container{
+    text-align: center;
+    padding: 0px 20vh;
+    
+}
+input[type=radio]{
+    margin-left:10px;
+    margin-right:5px;
+    accent-color: #075270;
+    
+}
+
+.category-container{
+    justify-content: center;
+    margin-top: 10px;
+    padding: 0px 20vh;
+    display: flex;
+    border-bottom: #075270 1px solid;
+
+}
+
+.custom-button{
+    height: 5.5vh;
+    padding: 5px 10px;
+    margin: 5px;
+    border: none;
+    background-color: #075270; 
+    color:#fff;
+    border-radius: 20px;
+}
+
+.active {
+    background-color: #ffcc00;
+}
+
+.custom-button:hover{
+background-color: #e9fcff;
+color: #047ea3;
+border: #075270 1px solid;
+}

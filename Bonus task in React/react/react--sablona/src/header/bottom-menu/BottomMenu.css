@@ -1,0 +1,14 @@
+.bottom-text{
+    padding-top: 2vh;
+    padding: 1vh 1vh;
+    color: #D9D9D9;
+    font-family: 'Roboto', sans-serif;
+    font-weight:normal;
+    font-size: 25px;
+    text-align: center;
+}
+
+a:hover{
+    color:goldenrod;
+}
+/*D9D9D9*/
